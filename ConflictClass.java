@@ -1,5 +1,5 @@
 public class ConflictClass{
     public static void main(String[] args) {
-        System.out.println("Hello Aseuro");
+        System.out.println("Hello Enterprise");
     }
 }
